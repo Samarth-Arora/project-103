@@ -1,0 +1,11 @@
+#camera {
+    border: 5px dashed turquoise;
+    width: 350px;
+    height: 300px;
+}
+
+body {
+    background: #3A1C71;
+    background: -webkit-linear-gradient(to right, #FFAF7B, #D76D77, #3A1C71);
+    background: linear-gradient(to right, #de864b, #ae8185, #160339);
+}
